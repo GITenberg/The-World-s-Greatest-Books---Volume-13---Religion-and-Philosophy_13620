@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4519
     wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13620#The-World-s-Greatest-Books---Volume-13---Religion-and-Philosophy
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2004-10-07'
 gutenberg_type: Text
